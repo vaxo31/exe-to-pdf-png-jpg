@@ -1,4 +1,4 @@
-🛠️ Dankek-Softwares | RTLO & Icon Spoofer
+🛠️ VAXO&DANKEK | RTLO & Icon Spoofer
 Bu araç, pentest çalışmalarında .exe dosyalarının uzantılarını ve ikonlarını manipüle ederek kullanıcı farkındalık testleri yapmanıza olanak tanır. Dankek-Softwares çatısı altında geliştirilen bu proje, RTLO (Right-to-Left Override) tekniğini kullanarak dosyaları görsel olarak farklı formatlarda (.pdf, .png, .jpg) gösterir.
 
 ✨ Özellikler
@@ -34,4 +34,4 @@ Aracı tek bir yürütülebilir dosya yapmak için:
 Bash
 pyinstaller --onefile --noconsole --name "DankekSpoofer" main.py
 ⚠️ Yasal Uyarı
-Bu araç Mert tarafından yalnızca eğitim ve pentest (sızma testi) amaçlı geliştirilmiştir. Kötü niyetli kullanımlardan geliştirici sorumlu tutulamaz.
+Bu araç vaxo tarafından yalnızca eğitim ve pentest (sızma testi) amaçlı geliştirilmiştir. Kötü niyetli kullanımlardan geliştirici sorumlu tutulamaz.
